@@ -4,12 +4,12 @@
 
 ###
 
-<h1 align="center">Md.Arif Hassan</h1>
-<h4 align="center">Web Developer | React & Next.js Enthusiast</h4>
+<h1>Md.Arif Hassan</h1>
+<h4>Web Developer | React & Next.js Enthusiast</h4>
 
 ###
 
-<h2 align="center">About Me</h2>
+<h2>About Me</h2>
 
 <p>
   I am a dedicated Web Developer with a focus on React, Next.js, and Tailwind CSS. With a passion for building dynamic and user-centered web applications, I strive to write clean, maintainable, and scalable code. I am constantly learning and evolving my skills, aiming to stay at the forefront of the ever-changing tech landscape.
