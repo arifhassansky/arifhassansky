@@ -11,12 +11,12 @@
 
 <h2 align="center">About Me</h2>
 
-<p align="center">
+<p>
   I am a dedicated Web Developer with a focus on React, Next.js, and Tailwind CSS. With a passion for building dynamic and user-centered web applications, I strive to write clean, maintainable, and scalable code. I am constantly learning and evolving my skills, aiming to stay at the forefront of the ever-changing tech landscape.
 </p>
 
-<p align="center">
-  🎯 Currently exploring Next.js and building a tourism website.<br>⚡ I enjoy reading tech blogs and contributing to open-source projects.<br>🎲 Fun fact: I can spend hours debugging code only to realize it was a missing semicolon!😅
+<p>
+  🎯 Currently exploring Next.js and building a resturant manament website.<br>⚡ I enjoy reading tech blogs and contributing to open-source projects.<br>🎲 Fun fact: I can spend hours debugging code only to realize it was a missing semicolon!😅
 </p>
 
 ###
