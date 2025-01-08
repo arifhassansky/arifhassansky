@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/W3LPM67/Screenshot-2025-01-08-012502.png"  />
+  <img height="200" src="https://i.ibb.co.com/PTBLhzr/ARIF-github-cover.jpg"  />
 </div>
 
 ###
