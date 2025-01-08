@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/PTBLhzr/ARIF-github-cover.jpg"  />
+  <img src="https://i.ibb.co/PTBLhzr/ARIF-github-cover.jpg" style="width: 100%;" alt="GitHub Profile Banner" />
 </div>
+
 
 ###
 
