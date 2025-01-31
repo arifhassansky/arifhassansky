@@ -6,7 +6,7 @@
 ###
 
 <h1>Md.Arif Hassan</h1>
-<h4>Web Developer | React & Next.js Enthusiast</h4>
+<h4>Frontend Developer | MERN Stack Developer | Next js Developer</h4>
 
 ###
 
