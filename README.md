@@ -58,11 +58,15 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arifhassansky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arifhassansky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <h2 align="center">🔥 GitHub Streak</h2>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=arifhassansky&theme=catppuccin-mocha&border_radius=5" alt="GitHub Streak" />
+  </a>
 </div>
 
-<h2>🔥 GitHub Streak</h2>
+</div>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://nirzak-streak-stats.vercel.app?user=arifhassansky&theme=catppuccin-mocha&border_radius=5" alt="GitHub Streak" />
-</a>
+
 
