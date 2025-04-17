@@ -45,7 +45,7 @@
 <h2 align="center">Connect with me</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/arif-hassan-8a4642317/" target="_blank">
+  <a href="https://www.linkedin.com/in/arif-hassan-dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/arifhearthacker/" target="_blank">
